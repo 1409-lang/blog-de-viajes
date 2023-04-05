@@ -1,0 +1,1 @@
+prompt("Mensaje personalizado", "valor por defecto");
